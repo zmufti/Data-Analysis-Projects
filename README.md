@@ -11,8 +11,6 @@ RedWineQualityRAnalysis.html
 
 wrangle_act.html: Displays code of all efforts to clean and vizualise the data.
 
-https://github.com/zmufti/Data-Analysis-Projects/blob/master/act_report.html
-
 wrangle_report.html: Write-up of efforts made to clean the data in wrangle_act.html.
 
 act_report.html: Report of findings from the data.
