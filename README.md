@@ -7,6 +7,10 @@ Projects completed as a student in the Udacity.com Data Analyst Nanodegree progr
 
 ●	Wrangle and Analyze Data: Gathered data from a variety of sources and in a variety of formats, and assessed quality and tidiness issues for cleaning the data.
 
+-wrangle_act.html: Displays code of all efforts to clean and vizualise the data.
+-act_report.html: Write-up of efforts made to clean the data in wrangle_act.html.
+-
+
 ●	Investigate a Dataset: Posed a question about a dataset, then used NumPy and Pandas to answer that question based on the data and created a report to share the results.
 
 ●	Analyze A/B Test Results: Analyzed the results of an A/B test run by an e-commerce website. The goal was to work through to help the company understand if they should implement the new page (hypothetically).
